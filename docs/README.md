@@ -36,7 +36,7 @@ Participants who complete this course will have a solid foundation for those new
   - Benefits of DevOps!
   - DevOps Processes
   - DevOps Operation Information
-- DevOps - Ölçeklenebilirlik
+- DevOps - Scalability
   - Business Processes and Team Scalability
   - Infrastructure scalability
   - Application Scalability
