@@ -93,7 +93,7 @@ Participants who complete this course will have a solid foundation for those new
   - Project Forking
   - Making Copies
   - Pull Request
-  - Combination
+  - Branch Merge
   - Request Review and Approval
   - Thanks and Contributions
 
@@ -142,6 +142,7 @@ Participants who complete this course will have a solid foundation for those new
   - Docker - Registery - Docker Hub
   - Docker – Volume
   - Docker - Registery – Distribution
+  - Podman
 - Virtualization - Container - Management
   - Docker Compose
   - Docker Swarm
@@ -173,7 +174,7 @@ Participants who complete this course will have a solid foundation for those new
   - Amazon AWS
   - Google Cloud Platform
   - Microsoft Azure
-  - Cloud Computing - Certifications
+- Cloud Computing - Certifications
   - AWS Certified
   - Google Cloud Certified
   - Microsoft Certified
