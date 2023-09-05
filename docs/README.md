@@ -119,7 +119,7 @@ Participants who complete this course will have a solid foundation for those new
   - SSH Keys and OpenSSH
   - Linux Firewall
   - Apache HTTP Server
-  - Tomcat - Java Web Uygulamaları
+  - Tomcat - Java Web Applications
   - Nginx
   - Nginx - Linux Proxy Server
   - Nginx - Linux Load Balancing
@@ -248,6 +248,7 @@ Participants who complete this course will have a solid foundation for those new
   - LogRocket
   - Rollable
   - Google Analytics
+  - Clarity
   - Hotjar
   - SpeedCurve
 - Log and Metric Monitoring - Data Collection and Storage
